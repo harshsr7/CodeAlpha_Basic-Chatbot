@@ -22,7 +22,7 @@ Open Terminal/Command Prompt
 
 Run:
 
-python smart_chatbot.py
+python Basic_chatbot.py
 Start chatting with the bot.
 
 Author
